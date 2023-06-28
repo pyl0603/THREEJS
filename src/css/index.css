@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: skyblue;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+}
+
+#tag{
+    background-image: url(./信息背景.png);
+    /* background-repeat:no-repeat;  */
+    /* background-size: 100% 100%; */
+    background-size: cover;
+    width: 260px;
+    height: 210px;
+
+}
+#tag1{
+    background-image: url(./信息背景.png);
+    /* background-repeat:no-repeat;  */
+    /* background-size: 100% 100%; */
+    background-size: cover;
+    width: 260px;
+    height: 210px;
+
+}

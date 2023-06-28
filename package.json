@@ -1,0 +1,20 @@
+{
+  "name": "three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "@tweenjs/tween.js": "^21.0.0",
+    "dat.gui": "^0.7.9",
+    "data.js": "^0.12.11",
+    "three": "^0.153.0"
+  }
+}
